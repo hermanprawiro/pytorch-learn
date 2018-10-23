@@ -1,0 +1,5 @@
+data/*
+dcgan_output/
+logs/
+*.png
+*.jpg
